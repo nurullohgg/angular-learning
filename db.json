@@ -1,0 +1,20 @@
+{
+  "expenses": [
+    {
+      "title": "Groceries",
+      "amount": 42.5,
+      "category": "Food",
+      "date": "2025-01-01",
+      "note": "Bought fruits and snacks",
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "title": "Movie Night",
+      "amount": 15,
+      "category": "Entertainment",
+      "date": "2025-01-03",
+      "note": "Watched the latest blockbuster"
+    }
+  ]
+}
